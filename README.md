@@ -12,3 +12,7 @@ https://dodi-repacks.site/
 https://gog-games.com/
 
 https://www.myabandonware.com/
+
+EXTRA GAME MANAGER/LAUNCHER WHICH HELPS ALOT TO KEEP EVERYTHING IN ONE PLACE. 
+                 
+https://playnite.link/
