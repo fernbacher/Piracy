@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/fernbacher/cracked-games/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What I use to crack.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Games
 
-```markdown
-Syntax highlighted code block
+https://kaoskrew.org/
 
-# Header 1
-## Header 2
-### Header 3
+https://cs.rin.ru/forum/index.php
 
-- Bulleted
-- List
+https://masquerade.site/
 
-1. Numbered
-2. List
+https://dodi-repacks.site/
 
-**Bold** and _Italic_ and `Code` text
+https://gog-games.com/
 
-[Link](url) and ![Image](src)
-```
+https://www.myabandonware.com/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Markdown
 
-### Jekyll Themes
+Software
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fernbacher/cracked-games/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+http://w14.monkrus.ws/
 
-### Support or Contact
+https://karanpc.com/
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://diakov.net/
+
+https://forums.mydigitallife.net/
+
+https://www.aiowares.com/
+
+### Markdown
+
+Multi Purpose
+
+https://rutracker.org/forum/index.php
+
+https://1337x.to/
+
+https://the-eye.eu/
+
+
