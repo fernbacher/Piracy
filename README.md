@@ -88,3 +88,22 @@ https://mainrepo.org/
 
 
 _TO BE UPDATED_
+
+
+
+**TO BE AVOIDED**
+
+
+
+    Try to avoid the pirate bay if you can (for software/games), it is filled to the brim with malware torrents. Skulled users are not trustworthy either.
+        If you are going to use the pirate bay for non-software/games, you'll want to take preliminary steps to avoid accidentally downloading malware when browsing for other types of media (video, audio, etc.). Guide.
+
+    uTorrent has bundled malware (a bitcoin miner) into the software in the past. The company developing this software is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
+
+    Bitlord (torrent client) is malware.
+
+    Soda Stream is malware.
+
+    Sidify/Allavsoft are scams - They are not able to download from spotify in any way, and instead record the streams or download from alternative platforms, like youtube.
+
+    Peerblock is garbage and placebo software. If you were to assume that their IP block lists are accurate, it still would not help to curb copyright complaints against you. Other peers in the swarm do not need to be connected to you in order to see your IP. Your IP will be visible regardless and if found in a torrent swarm, it's liable to be logged and reported.
