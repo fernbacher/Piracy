@@ -14,6 +14,8 @@ https://gog-games.com/
 
 https://www.myabandonware.com/
 
+https://fitgirl-repacks.site/
+
 **Software**
 
 http://w14.monkrus.ws/
