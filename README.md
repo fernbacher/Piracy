@@ -1,5 +1,8 @@
 **_What I use to pirate._**
 
+https://piracy.now.sh/
+This website is a collection of the best digital piracy resources. This will help you get started on your pirate voyage.
+
 **Games**
 
 https://kaoskrew.org/
