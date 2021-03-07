@@ -4,6 +4,9 @@ https://piracy.now.sh/
 
 This website is a collection of the best digital piracy resources. This will help you get started on your pirate voyage.
 
+https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md
+
+
 **Games**
 
 https://kaoskrew.org/
