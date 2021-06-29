@@ -23,6 +23,8 @@ https://www.myabandonware.com/
 
 https://fitgirl-repacks.site/
 
+https://nsw2u.com/
+
 **Software**
 
 http://w14.monkrus.ws/
@@ -66,6 +68,8 @@ https://www.sport-video.org.ua/
 https://reddit.footybite.com/
 
 https://sportsurge.net/#/groups/0
+
+https://sportsbay.org/live-streams
 
 **Books**
 
