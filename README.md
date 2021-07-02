@@ -13,6 +13,8 @@ https://kaoskrew.org/
 
 https://cs.rin.ru/forum/index.php
 
+https://www.gnarly-repacks.site/
+
 https://masquerade.site/
 
 https://dodi-repacks.site/
