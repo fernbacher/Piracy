@@ -27,6 +27,8 @@ https://fitgirl-repacks.site/
 
 https://nsw2u.com/
 
+https://darckrepacks.com/
+
 **Software**
 
 http://w14.monkrus.ws/
