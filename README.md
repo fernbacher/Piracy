@@ -75,6 +75,10 @@ https://sportsurge.net/#/groups/0
 
 https://sportsbay.org/live-streams
 
+http://720pstream.tv/
+
+http://liveonscore.tv/
+
 **Books**
 
 https://archive.org/details/texts
