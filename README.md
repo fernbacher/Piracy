@@ -67,6 +67,8 @@ https://www.opensubtitles.org/en/search
 
 **Sports**
 
+https://daddylive.me/
+
 https://reddi.soccerstreams.net/home
 
 https://www.sport-video.org.ua/
