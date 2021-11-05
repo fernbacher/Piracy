@@ -1,1 +1,3 @@
-title: "Jekyll Actions Demo"
+- name: Jekyll Actions
+  uses: helaili/jekyll-action@2.2.0
+
