@@ -1,8 +1,6 @@
 What I use to crack.
 
-### Markdown
-
-Games
+**Games
 
 https://kaoskrew.org/
 
@@ -16,9 +14,7 @@ https://gog-games.com/
 
 https://www.myabandonware.com/
 
-### Markdown
-
-Software
+**Software
 
 http://w14.monkrus.ws/
 
@@ -30,9 +26,8 @@ https://forums.mydigitallife.net/
 
 https://www.aiowares.com/
 
-### Markdown
 
-Multi Purpose
+**Multi Purpose
 
 https://rutracker.org/forum/index.php
 
