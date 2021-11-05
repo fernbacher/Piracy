@@ -10,7 +10,7 @@ baseurl: "/piracy"
 
 github_username: Fernbacher
 
-theme: minima
+theme: jekyll-theme-midnight
 
 
 
