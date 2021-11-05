@@ -12,5 +12,6 @@ github_username: Fernbacher
 
 theme: jekyll-theme-cayman
 
-
+plugins:
+  - jekyll-tabs
 
