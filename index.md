@@ -5,7 +5,7 @@
 
 **Games**
 
-(https://kaoskrew.org/)
+[KaosKrew] (https://kaoskrew.org/)
 
 [https://cs.rin.ru/forum/index.php]
 
