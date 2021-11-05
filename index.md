@@ -1,11 +1,11 @@
-| Warning : this is what i use to crack, not the best stuff out there or the most filled with information repository about it, its just what i think is good. |
-| Use this for alot more. [https://piracy.now.sh/] |
+**| Warning : this is what i use to crack, not the best stuff out there or the most filled with information repository about it, its just what i think is good. |
+| Use this for alot more. [https://piracy.now.sh/] |**
 
 # What I use to crack.
 
 **Games**
 
-[KaosKrew] (https://kaoskrew.org/)
+[https://kaoskrew.org]
 
 [https://cs.rin.ru/forum/index.php]
 
@@ -16,6 +16,8 @@
 [https://gog-games.com/]
 
 [https://www.myabandonware.com/]
+
+[https://www.gnarly-repacks.site/]
 
 **Software**
 
@@ -42,9 +44,6 @@
 **Movies**
 
 [https://solidtorrents.net/movies]
-
-
-[https://hevcbay.com/]
 
 
 [https://rarefilmm.com/]
@@ -112,9 +111,6 @@
 
 
 [https://forum.mobilism.org/index.php]
-
-
-[https://mainrepo.org/]
 
 
 [https://newpipe.net/]
