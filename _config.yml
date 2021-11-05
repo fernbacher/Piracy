@@ -1,26 +1,14 @@
 ## Site metadata ##
 
-
-
 title: Piracy - Fernbacher
-
 description: What i use to pirate
-
-
 
 ### Built settings ###
 
-
-
 url: "https://fernbacher.github.io"
-
 baseurl: "/piracy"
 
-
-
 github_username: Fernbacher
-
-
 
 theme: minima
 
