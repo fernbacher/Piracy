@@ -1,120 +1,122 @@
 | Warning : this is what i use to crack, not the best stuff out there or the most filled with information repository about it, its just what i think is good. |
-| https://piracy.now.sh/ |
+| Use this for alot more. [https://piracy.now.sh/] |
 
-__What I use to crack.
+# What I use to crack.
 
-**Games
+**Games**
 
-https://kaoskrew.org/
+[https://kaoskrew.org/]
 
-https://cs.rin.ru/forum/index.php
+[https://cs.rin.ru/forum/index.php]
 
-https://masquerade.site/
+[https://masquerade.site/]
 
-https://dodi-repacks.site/
+[https://dodi-repacks.site/]
 
-https://gog-games.com/
+[https://gog-games.com/]
 
-https://www.myabandonware.com/
+[https://www.myabandonware.com/]
 
-**Software
+**Software**
 
-http://w14.monkrus.ws/
+[http://w14.monkrus.ws/]
 
-https://karanpc.com/
+[https://karanpc.com/]
 
-https://diakov.net/
+[https://diakov.net/]
 
-https://forums.mydigitallife.net/
+[https://forums.mydigitallife.net/]
 
-https://www.aiowares.com/
+[https://www.aiowares.com/]
 
 
-**Multi Purpose
+**Multi Purpose**
 
-https://rutracker.org/forum/index.php
+[https://rutracker.org/forum/index.php]
 
-https://1337x.to/
+[https://1337x.to/]
 
-https://the-eye.eu/
+[https://the-eye.eu/]
 
 
-**Movies
+**Movies**
 
-https://solidtorrents.net/movies
+[https://solidtorrents.net/movies]
 
 
-https://hevcbay.com/
+[https://hevcbay.com/]
 
 
-https://rarefilmm.com/
+[https://rarefilmm.com/]
 
 
-https://www3.bflix.to/home
+[https://www3.bflix.to/home]
 
 
-https://www.opensubtitles.org/en/search
+[https://www.opensubtitles.org/en/search]
 
 
-**Movies
+**Sports**
 
-https://daddylive.me/
+[https://daddylive.me/]
 
 
-https://reddi.soccerstreams.net/home
+[https://reddi.soccerstreams.net/home]
 
 
-https://www.sport-video.org.ua/
+[https://www.sport-video.org.ua/]
 
 
-https://reddit.footybite.com/
+[https://reddit.footybite.com/]
 
 
-https://sportsurge.net/#/groups/0
+[https://sportsurge.net/#/groups/0]
 
 
-https://sportsbay.org/live-streams
+[https://sportsbay.org/live-streams]
 
 
-http://720pstream.tv/
+[http://720pstream.tv/]
 
 
-http://liveonscore.tv/
+[http://liveonscore.tv/]
 
 
-**Books
+**Books**
 
-https://archive.org/details/texts
+[https://archive.org/details/texts]
 
 
-http://audiobookbay.nl/
+[http://audiobookbay.nl/]
 
 
-https://getcomics.info/
+[https://getcomics.info/]
 
 
-**Music
+**Music**
 
-https://freezer.life/
+[https://freezer.life/ ]
 
 
-https://vancedapp.com/
+[https://vancedapp.com/]
 
 
-https://github.com/MrS0m30n3/youtube-dl-gui
+[https://github.com/MrS0m30n3/youtube-dl-gui]
 
 
-http://music-torrent.net/
+[http://music-torrent.net/]
 
-**Mobile
+**Mobile**
 
-https://www.luckypatchers.com/
+[https://www.luckypatchers.com/]
 
 
-https://forum.mobilism.org/index.php
+[https://forum.mobilism.org/index.php]
 
 
-https://mainrepo.org/
+[https://mainrepo.org/]
 
 
-https://newpipe.net/
+[https://newpipe.net/]
+
+
