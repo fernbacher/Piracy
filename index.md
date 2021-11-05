@@ -5,7 +5,7 @@
 
 **Games**
 
-[https://kaoskrew.org]
+2[https://kaoskrew.org]
 
 [https://cs.rin.ru/forum/index.php]
 
@@ -17,7 +17,7 @@
 
 [https://www.myabandonware.com/]
 
-[https://www.gnarly-repacks.site/]
+[https://www.gnarly-repacks.site/]2
 
 **Software**
 
