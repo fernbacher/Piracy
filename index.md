@@ -1,4 +1,4 @@
-# Warning : this is what i use to pirate, not the best stuff out there or the most filled with information repository about it, its just what i think is good. 
+**Warning : this is what i use to pirate, not the best stuff out there or the most filled with information repository about it, its just what i think is good.** 
 
 
 
