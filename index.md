@@ -1,3 +1,5 @@
+# Freedom #
+
 # Use this for alot more. <https://piracy.now.sh/> 
 
 
