@@ -8,102 +8,102 @@
 
 
 
-**Games**
+## Games
 
 
 
-<https://kaoskrew.org>
+- <https://kaoskrew.org>
 
 
 
-<https://cs.rin.ru/forum/index.php>
+- <https://cs.rin.ru/forum/index.php>
 
 
 
-<https://masquerade.site/>
+- <https://masquerade.site/>
 
 
 
-<https://dodi-repacks.site/>
+- <https://dodi-repacks.site/>
 
 
 
-<https://gog-games.com/>
+- <https://gog-games.com/>
 
 
 
-<https://www.myabandonware.com/>
+- <https://www.myabandonware.com/>
 
 
 
-<https://www.gnarly-repacks.site/>
+- <https://www.gnarly-repacks.site/>
 
 
 
-**Software**
+## Software
 
 
 
-<http://w14.monkrus.ws/>
+- <http://w14.monkrus.ws/>
 
 
 
-<https://karanpc.com/>
+- <https://karanpc.com/>
 
 
 
-<https://diakov.net/>
+- <https://diakov.net/>
 
 
 
-<https://forums.mydigitallife.net/>
+- <https://forums.mydigitallife.net/>
 
 
 
-<https://www.aiowares.com/>
+- <https://www.aiowares.com/>
 
 
 
 
 
-**Multi Purpose**
+## Multi Purpose
 
 
 
-<https://rutracker.org/forum/index.php>
+- <https://rutracker.org/forum/index.php>
 
 
 
-<https://1337x.to/>
+- <https://1337x.to/>
 
 
 
-<https://the-eye.eu/>
+- <https://the-eye.eu/>
 
 
 
 
 
-**Movies**
+## Movies
 
 
 
-<https://solidtorrents.net/movies>
+- <https://solidtorrents.net/movies>
 
 
 
 
 
-<https://rarefilmm.com/>
+- <https://rarefilmm.com/>
 
 
 
 
 
-<https://www3.bflix.to/home>
+- <https://www3.bflix.to/home>
 
 
 
 
 
-<https://www.opensubtitles.org/en/search>
+- <https://www.opensubtitles.org/en/search>
