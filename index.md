@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-This is not a mega thread or anything, just what i like to use the most
+This is not a mega thread
 </h2> 
 
 # Multi-Purpose
