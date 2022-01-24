@@ -100,7 +100,7 @@ This is not a mega thread
 2. [Wacup](https://getwacup.com/)
 - WinAmp community update project, aims to make WinAmp still useable while adding many new features and looks, my favourite media player
 
-3. [NightRide FM](nightride.fm)
+3. [NightRide FM](https://nightride.fm/stations?station=nightride)
 - Synthwave and more radio
 
 4. [BadRadio](https://badradio.nz/)
