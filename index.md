@@ -12,6 +12,7 @@ This is not a mega thread or anything, just what i like to use the most
 - Do not download anything from non-trusted uploaders, example, IGGAMES
 
 2. [rarBG](https://rarbg.to/index80.php)
+- Nothing to avoid
 
 3. [rutor](http://www.rutor.info/)
 - Use a translator
