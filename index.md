@@ -26,7 +26,7 @@ This is not a mega thread
 ## Private Trackers
 
 1. [FileList](https://filelist.io/)
-- I have invites, if i can trust you and you pay 6 euros for the VIP, if not, good luck
+- Hard to get invited in, only opened free sign up in 2014, never again since
 
 2. [TorrentLeech](https://www.torrentleech.org/)
 - They open their sign-up quite often with free invite codes, try your luck from time to time
