@@ -142,5 +142,10 @@ This is not a mega thread
 4. [Deluge](https://deluge-torrent.org/)
 - Lightweight, Free Software, cross-platform BitTorrent client
 
+# DO NOT USE
 
+1. **The Pirate Bay**
+- They are long gone, any pirate bay copy you see on the internet, is filled with malware, same with most old public trackers you may remember
 
+2. **uTorrent**
+- Has [bundled malware (a bitcoin miner) into the software in the past. The company developing this software is not trustworthy.](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825) Bittorrent (the torrent client) is owned by the same company, not to be confused with qBittorrent.		
