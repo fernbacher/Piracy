@@ -6,6 +6,7 @@
 This is not a mega thread
 </h2> 
 
+Last update: 3/15/2022
 # Multi-Purpose
 
 1. [1337x](https://1337x.to/)
@@ -58,15 +59,16 @@ This is not a mega thread
 - Repacks for Anime, Japanese games
 
 # Emulation
-## You can find emulators by using any search engine, usually reddit is a good source for finding the best of emulators
 
-1. [ROMS Megathread](https://r-roms.github.io/)
+1. [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
+
+2. [ROMS Megathread](https://r-roms.github.io/)
 - You will find any game you are looking for
 
-2. [DLPS Games](https://dlpsgame.org/home/)
+3. [DLPS Games](https://dlpsgame.org/home/)
 - PS2, PS3, PS4 games
 
-3. [Lakka](http://www.lakka.tv/)
+4. [Lakka](http://www.lakka.tv/)
 - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console
 
 # Software
