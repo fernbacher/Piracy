@@ -6,7 +6,7 @@
 This is not a mega thread
 </h2> 
 
-Last update: 3/15/2022
+Last update: 3/20/2022
 # Multi-Purpose
 
 1. [1337x](https://1337x.to/)
@@ -57,6 +57,21 @@ Last update: 3/15/2022
 
 8. [CPG](https://cpgrepacks.site/)
 - Repacks for Anime, Japanese games
+
+9. [GLOAD](https://gload.to/)
+- Scene release site, offers plenty of free-user friendly hosters
+
+10. [OldGamesDownload](https://oldgamesdownload.com/)
+- Many abandonware classics for a lot of systems
+
+11. [GOG-Games](http://gog-games.com/)
+- Official GOG releases
+
+12. [Chovka Repacks](https://repack.info/)
+- Repacks
+
+13. [ElAmigos](https://elamigos.site/)
+- Repacks
 
 # Emulation
 
