@@ -46,7 +46,7 @@ Last update: 3/20/2022
 4. [Gnarly](https://www.gnarly-repacks.site/)
 - Repacks for PC and Emulation, mainly older stuff
 
-5. [Darck](https://darckrepacks.com/)
+5. [Darck](https://darckrepacks.com/) (down for now)
 - Repacks for PC, they are kind of greedy with the donations for hosting the website
 
 6. [Masquerade](https://masquerade.site/)
