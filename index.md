@@ -6,7 +6,8 @@
 This is not a mega thread
 </h2> 
 
-Last update: 3/20/2022
+`Last update: 07/04/2022`
+
 # Multi-Purpose
 
 1. [1337x](https://1337x.to/)
@@ -72,6 +73,9 @@ Last update: 3/20/2022
 
 13. [ElAmigos](https://elamigos.site/)
 - Repacks
+
+14. [Xatab](https://m.byxatab.com/)
+- Repacks (RIP to the OG, maintained by other users)
 
 # Emulation
 
@@ -161,8 +165,25 @@ Last update: 3/20/2022
 
 # DO NOT USE
 
-1. **The Pirate Bay**
-- They are long gone, any pirate bay copy you see on the internet, is filled with malware, same with most old public trackers you may remember
+1. **Not recommended sites for pirating games**
+- Any website labeled in a way which includes names of scene groups such as CODEX, CPY, RELOADED, SKIDROW and / or others.
+- agfy.co
+- alltorrents.co
+- Cracked-games.org
+- crackingpatching.com
+- freetp.org
+- gamesforyou.co
+- getgamez.net
+- IGG-Games.com
+- loadgames.org
+- nosteamgames.ro
+- oceanofgames.com
+- pcgamestorrents.com
+- rgmechanics.com
+- steamcracked.co
+- steamhub.co
+- thepiratebay
+- much more because the piracy realm is filled with scammers
 
 2. **uTorrent**
 - Has [bundled malware (a bitcoin miner) into the software in the past. The company developing this software is not trustworthy.](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825) Bittorrent (the torrent client) is owned by the same company, not to be confused with qBittorrent.		
