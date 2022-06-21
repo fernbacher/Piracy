@@ -50,7 +50,7 @@ This is not a mega thread
 5. [Darck](https://darckrepacks.com/) (down for now)
 - Repacks for PC, they are kind of greedy with the donations for hosting the website
 
-6. [Masquerade](https://masquerade.site/)
+6. [Masquerade](https://masquerade.site/) **MOVED TO WORK WITH KAOSKREW**
 - Repacks for PC
 
 7. [ScOOter](https://scooter-repacks.site/)
