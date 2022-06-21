@@ -6,7 +6,7 @@
 This is not a mega thread
 </h2> 
 
-`Last update: 07/04/2022`
+`Last update: 22/06/2022`
 
 # Multi-Purpose
 
@@ -108,9 +108,12 @@ This is not a mega thread
 - Gaming and latency focused modification of Windows 10 20h2
 
 2. [AtlasOS](https://atlasos.net/)
-- Same as ggOS
+- Gaming and latency focused modification of Windows 10 20h2
 
-3. [Revision](https://sites.google.com/view/meetrevision/revios)
+3. [XOS](dsc.gg/xos)
+- Windows 10 1803 / 1809 / 1607 | Windows 11 modifications
+
+4. [Revision](https://sites.google.com/view/meetrevision/revios)
 - Less stripped, based on Windows 11, way more general user friendly
 
 # Music
