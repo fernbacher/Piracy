@@ -1,3 +1,8 @@
+---
+title: What i use to pirate
+layout: collections_layout
+---
+
 <h1 align="center">
  What I Use To Pirate
 </h1>
