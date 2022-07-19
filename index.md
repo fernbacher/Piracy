@@ -1,15 +1,7 @@
 ---
-title: What i use to pirate
+title: What I Use To Pirate, Not a MEGATHREAD
 layout: collections_layout
 ---
-
-<h1 align="center">
- What I Use To Pirate
-</h1>
-
-<h2 align="center">
-This is not a mega thread
-</h2> 
 
 `Last update: 19/07/2022`
 
