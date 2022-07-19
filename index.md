@@ -1,6 +1,7 @@
 ---
 title: What I Use To Pirate, Not a MEGATHREAD
 layout: collections_layout
+profile_pic: "[https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4]"
 ---
 
 `Last update: 19/07/2022`
