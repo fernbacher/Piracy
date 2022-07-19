@@ -1,6 +1,6 @@
 ---
 title: What I Use To Pirate, Not a MEGATHREAD
-layout: default
+layout: page
 ---
 
 `Last update: 19/07/2022`
