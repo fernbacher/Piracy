@@ -201,4 +201,4 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - much more because the piracy realm is filled with scammers
 
 2. **uTorrent**
-- Has [bundled malware (a bitcoin miner) into the software in the past. The company developing this software is not trustworthy.](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825) Bittorrent (the torrent client) is owned by the same company, not to be confused with qBittorrent.		
+- [Has bundled malware (a bitcoin miner) into the software in the past. The company developing this software is not trustworthy.](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825) Bittorrent (the torrent client) is owned by the same company, not to be confused with qBittorrent.		
