@@ -6,7 +6,7 @@
 This is not a mega thread
 </h2> 
 
-`Last update: 22/06/2022`
+`Last update: 19/07/2022`
 
 # Multi-Purpose
 
@@ -27,10 +27,12 @@ This is not a mega thread
 
 ## Private Trackers
 
-1. [FileList](https://filelist.io/)
+1. [Private-Tracker-Guide](https://wiki.installgentoo.com/wiki/Private_trackers)
+
+2. [FileList](https://filelist.io/)
 - Hard to get invited in, only opened free sign up in 2014, never again since
 
-2. [TorrentLeech](https://www.torrentleech.org/)
+3. [TorrentLeech](https://www.torrentleech.org/)
 - They open their sign-up quite often with free invite codes, try your luck from time to time
 
 # Games
@@ -50,8 +52,8 @@ This is not a mega thread
 5. [Darck](https://darckrepacks.com/) (down for now)
 - Repacks for PC, they are kind of greedy with the donations for hosting the website
 
-6. [Masquerade](https://masquerade.site/) **MOVED TO WORK WITH KAOSKREW**
-- Repacks for PC
+6. [Steam-RIP](https://steamrip.com/)
+- Pre-Installed games
 
 7. [ScOOter](https://scooter-repacks.site/)
 - Repacks for PC
@@ -90,21 +92,28 @@ This is not a mega thread
 4. [Lakka](http://www.lakka.tv/)
 - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console
 
+# Mobile
+
+1. [Mobilism](https://forum.mobilism.org/index.php)
+
+2. [FileCR](https://filecr.com/android/?id=368775758650)
+
+3. [ModdedCentral](https://t.me/ModdedCentral)
+
+4. [Android FOSS](https://github.com/offa/android-foss)
+
 # Software
 
-1. [nsane.down](https://nsaneforums.com/nsane.down/)
-- Software as it should be
-
-2. [DIAKOV](https://diakov.net/)
+1. [DIAKOV](https://diakov.net/)
 - Repacks, use a translator
 
-3. [m0nkrus](https://w14.monkrus.ws/)
+2. [m0nkrus](https://w14.monkrus.ws/)
 - Repacks, has a built in english translation
 
-4. [PooShock](http://pooshock.ru/)
+3. [PooShock](http://pooshock.ru/)
 - Repacks, use a translator
 
-5. [TheSauceDump](https://rentry.co/TSD)
+4. [TheSauceDump](https://rentry.co/TSD)
 
 ## Windows
 1. [ggOS](https://discord.gg/ggos)
@@ -168,6 +177,8 @@ This is not a mega thread
 
 4. [Deluge](https://deluge-torrent.org/)
 - Lightweight, Free Software, cross-platform BitTorrent client
+
+5. [Motrix](https://motrix.app/)
 
 # DO NOT USE
 
