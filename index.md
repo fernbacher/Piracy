@@ -7,29 +7,29 @@ layout: collections_layout
 
 # Multi-Purpose
 
-1. [1337x](https://1337x.to/)
+ [1337x](https://1337x.to/)
 - Do not download anything from non-trusted uploaders, example, IGGAMES
 
-2. [rarBG](https://rarbg.to/index80.php)
+ [rarBG](https://rarbg.to/index80.php)
 - Nothing to avoid
 
-3. [rutor](http://www.rutor.info/)
+ [rutor](http://www.rutor.info/)
 - Use a translator
 
-4. [RuTracker](https://rutracker.org/forum/index.php)
+ [RuTracker](https://rutracker.org/forum/index.php)
 - Use a translator
 
-5. [rustorka](http://rustorka.com/forum/index.php)
+ [rustorka](http://rustorka.com/forum/index.php)
 - Use a translator
 
 ## Private Trackers
 
-1. [Private-Tracker-Guide](https://wiki.installgentoo.com/wiki/Private_trackers)
+ [Private-Tracker-Guide](https://wiki.installgentoo.com/wiki/Private_trackers)
 
-2. [FileList](https://filelist.io/)
+ [FileList](https://filelist.io/)
 - Hard to get invited in, only opened free sign up in 2014, never again since
 
-3. [TorrentLeech](https://www.torrentleech.org/)
+ [TorrentLeech](https://www.torrentleech.org/)
 - They open their sign-up quite often with free invite codes, try your luck from time to time
 
 # Games
