@@ -4,7 +4,7 @@ layout: collections_layout
 profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 ---
 
-`Last update: 19/07/2022`
+`Last update: 10/08/2022`
 
 # Multi-Purpose
 
@@ -120,7 +120,7 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 2. [AtlasOS](https://atlasos.net/)
 - Gaming and latency focused modification of Windows 10 20h2
 
-3. [XOS](dsc.gg/xos)
+3. [XOS](https://dsc.gg/xos)
 - Windows 10 1803 / 1809 / 1607 | Windows 11 modifications
 
 4. [Revision](https://sites.google.com/view/meetrevision/revios)
