@@ -23,7 +23,7 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 5.  [rustorka](http://rustorka.com/forum/index.php)
 - Use a translator
 
-6. [Zamunda](https://zamunda.net)
+6.  [Zamunda](https://zamunda.net)
 - Use a translator
 
 ## Private Trackers
@@ -50,7 +50,7 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 4. [Gnarly](https://www.gnarly-repacks.site/)
 - Repacks for PC and Emulation, mainly older stuff
 
-5. [qoob]((https://qoob.name)
+5. [qoob](https://qoob.name)
 - Repacks for PC
 
 6. [Steam-RIP](https://steamrip.com/)
@@ -123,8 +123,8 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 2. [AtlasOS](https://atlasos.net/)
 - Gaming and latency focused modification of Windows 10 20h2
 
-3. [XOS](https://dsc.gg/xos)
-- Windows 10 1803 / 1809 / 1607 | Windows 11 modifications
+3. [XOS](https://discord.gg/XTYEjZNPgX)
+- Windows 11/10 22H2, 1809, 1803
 
 4. [Revision](https://sites.google.com/view/meetrevision/revios)
 - Less stripped, based on Windows 11, way more general user friendly
