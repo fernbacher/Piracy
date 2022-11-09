@@ -23,6 +23,9 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 5.  [rustorka](http://rustorka.com/forum/index.php)
 - Use a translator
 
+6. [Zamunda](https://zamunda.net)
+- Use a translator
+
 ## Private Trackers
 
 1. [Private-Tracker-Guide](https://wiki.installgentoo.com/wiki/Private_trackers)
@@ -47,8 +50,8 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 4. [Gnarly](https://www.gnarly-repacks.site/)
 - Repacks for PC and Emulation, mainly older stuff
 
-5. [Darck](https://darckrepacks.com/) (down for now)
-- Repacks for PC, they are kind of greedy with the donations for hosting the website
+5. [qoob]((https://qoob.name)
+- Repacks for PC
 
 6. [Steam-RIP](https://steamrip.com/)
 - Pre-Installed games
@@ -65,7 +68,7 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 10. [OldGamesDownload](https://oldgamesdownload.com/)
 - Many abandonware classics for a lot of systems
 
-11. [GOG-Games](http://gog-games.com/)
+11. [GOG-Games](http://gog-games.com/) | [Free GOG PC](https://freegogpcgames.com)
 - Official GOG releases
 
 12. [Chovka Repacks](https://repack.info/)
@@ -147,6 +150,9 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 
 1. [Anime Piracy Index](https://piracy.moe/)
 - This has everything you want for anime
+
+2. [MangaDex](https://mangadex.org)
+- Online manga reader
 
 # Sports Streaming
 
