@@ -4,7 +4,7 @@ layout: collections_layout
 profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 ---
 
-`Last update: 10/08/2022`
+`Last update: 11/18/2022`
 
 # Multi-Purpose
 
