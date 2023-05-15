@@ -213,7 +213,7 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 6. [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - Easy Windows activation
 
-7. [Filechan](https://filechan.org) | [Wormhole](https://wormhole.app) | [Fireload](https://www.fireload.com]
+7. [Filechan](https://filechan.org) | [Wormhole](https://wormhole.app) | [Fireload](https://www.fireload.com)
 - File sharing and hosting
 - Filechan is no expriation hosting, same as Fireload
 - Wormhole is Temp Sharing for 24 hours
