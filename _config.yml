@@ -1,15 +1,14 @@
-remote_theme: sharadcodes/jekyll-theme-retro-yellow
+remote_theme: sharadcodes/jekyll-theme-dark-reader
 title: Piracy Fernbacher
 markdown: kramdown
-color_scheme: "yellow"
 #Other shit
 author:
   name: Fernbacher
   email: suckmycock@fuckyou.com
-
+  
 plugins:
   - jekyll-paginate
+  - jemoji
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  - jemoji
