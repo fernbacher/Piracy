@@ -9,7 +9,7 @@ author:
 
 plugins:
   - jekyll-paginate
-  - jemoji
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jemoji
