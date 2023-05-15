@@ -8,23 +8,15 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 
 # Multi-Purpose
 
-1.  [1337x](https://1337x.to/)
-- Do not download anything from non-trusted uploaders, example, IGGAMES
+1. [1337x](https://1337x.to)
 
-2.  [rarBG](https://rarbg.to/index80.php)
-- Nothing to avoid
+2. [RuTracker](https://rutracker.org/forum/index.php)
 
-3.  [rutor](http://www.rutor.info/)
-- Use a translator
+3. [RARBG](https://rarbgp2p.org/torrents.php)
 
-4.  [RuTracker](https://rutracker.org/forum/index.php)
-- Use a translator
+4. [TorrentGalaxy](https://torrentgalaxy.to)
 
-5.  [rustorka](http://rustorka.com/forum/index.php)
-- Use a translator
-
-6.  [Zamunda](https://zamunda.net)
-- Use a translator
+5. [Archive](https://archive.org)
 
 ## Private Trackers
 
@@ -80,6 +72,12 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 14. [Xatab](https://m.byxatab.com/)
 - Repacks (RIP to the OG, maintained by other users)
 
+15. [Seven-Gamers](https://www.seven-gamers.com)
+- Torrents, google drive links on their discord
+
+16. [Gamdie](https://gamdie.com)
+- Specific for indie games
+
 # Emulation
 
 1. [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
@@ -87,10 +85,13 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 2. [ROMS Megathread](https://r-roms.github.io/)
 - You will find any game you are looking for
 
-3. [DLPS Games](https://dlpsgame.org/home/)
+3. [NXBrew](https://nxbrew.com)
+- Nintendo Switch games
+
+4. [DLPS Games](https://dlpsgame.org/home/)
 - PS2, PS3, PS4 games
 
-4. [Lakka](http://www.lakka.tv/)
+5. [Lakka](http://www.lakka.tv/)
 - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console
 
 # Mobile
@@ -99,9 +100,12 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 
 2. [FileCR](https://filecr.com/android/?id=368775758650)
 
-3. [ModdedCentral](https://t.me/ModdedCentral)
+3. [ModdedCentral](https://t.me/ModdedCentral) / [Revdl](https://www.revdl.com)
 
-4. [Android FOSS](https://github.com/offa/android-foss)
+4. [julioverne](https://julio.hackyouriphone.org)
+- For iPhones
+
+5. [Android FOSS](https://github.com/offa/android-foss)
 
 # Software
 
@@ -115,6 +119,10 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - Repacks, use a translator
 
 4. [TheSauceDump](https://rentry.co/TSD)
+
+5. [LRepacks](https://lrepacks.net)
+
+6. [RSLoad](https://rsload.net)
 
 ## Windows
 1. [ggOS](https://discord.gg/ggos)
@@ -134,17 +142,27 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 1. [Free MP3 Download](https://free-mp3-download.net/)
 - MP3 and FLAC, search engine that allows users to download all their favourite songs, serves the downloads through third party servers
 
-2. [Wacup](https://getwacup.com/)
-- WinAmp community update project, aims to make WinAmp still useable while adding many new features and looks, my favourite media player
+2. [3ost](https://3ost.ru)
+- In russian and requires signup, torrent tracker for game OSTs, flac and lower quality
 
-3. [NightRide FM](https://nightride.fm/stations?station=nightride)
+3. [Slavart](https://slavart.gamesdrive.net)
+- Download from Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL, and SoundCloud in FLAC format
+
+4. [Wacup](https://getwacup.com/) / [MusicBee](https://getmusicbee.com)
+- WinAmp community update project, aims to make WinAmp still useable while adding many new features and looks, my favourite media player
+- MusicBee is the best music player.
+
+5. [NightRide FM](https://nightride.fm/stations?station=nightride)
 - Synthwave and more radio
 
-4. [BadRadio](https://badradio.nz/)
+6. [BadRadio](https://badradio.nz/)
 - Phonk Radio
 
-5. [Core Radio](https://coreradio.ru/)
+7. [Core Radio](https://coreradio.ru/)
 - The world's first radio station for fans of such music genres as: deathcore, metalcore, post-hardcore, hardcore, and others
+
+8. [zotify](https://zotify.xyz/zotify/zotify)
+- Music and podcast downloader
 
 # Anime
 
@@ -154,19 +172,17 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 2. [MangaDex](https://mangadex.org)
 - Online manga reader
 
-# Sports Streaming
+# Streaming
 
-1. [MMA StreamZ](https://redditz.mmastreamlinks.com/)
-- MMA Streams
+1. [rinzry.stream](https://rinzry.stream/0:/) / [Mega folder](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w)
+- Movies and TV Shows **DOWNLOAD**
 
-2. [Soccer StreamZ](https://redditz.soccerstreamlinks.com/)
-- Football Streams
+2. [JustChill](https://www.justchill.tv/home) / [123chill](https://123chill.to) [movie-web](https://movie-web.app/search/movie)
+- Movies and TV Shows **STREAMING**
 
-3. [NBA StreamZ](https://reddits.nbastreamlinks.net/)
-- NBA Streams
+3. [SportsBay](https://www.sportsbay.run) / [Sportsurge](https://v2.sportsurge.net) / [daddylivehd](https://daddylivehd.sx/24-7-channels.php) / [rj-freestreams](https://rj.freestreams-live1.tv)
+- Sports / TV streaming
 
-4. [Boxing StreamZ](https://reddits.boxingstreamlinks.com/)
-- Boxing Streams
 
 # Tools for piracy
 
@@ -183,6 +199,44 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - Lightweight, Free Software, cross-platform BitTorrent client
 
 5. [Motrix](https://motrix.app/)
+
+6. [WebTorrent](https://webtorrent.io/desktop/)
+- Streaming torrent app
+
+# Other
+
+1. [SpotX](https://github.com/amd64fox/SpotX)
+- Modified Spotify Client for Windows
+
+2. [uBlock](https://github.com/gorhill/uBlock#installation) / [Adnauseam](https://adnauseam.io/)
+- Best adblocker + its alternative which is based on it
+
+3. [FastForward](https://github.com/FastForwardTeam/FastForward)
+- FastForward automatically skips annoying link shortener
+
+4. [Playnite](https://playnite.link) / [GOG-Galaxy](https://www.gog.com/galaxy)
+- Universal game launchers for Windows
+
+5. [FontsHub](https://fontshub.pro)
+- Obtain fonts to create headlines, quotations, paragraphs, lists, and other text components for your design projects
+
+6. [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- Easy Windows activation
+
+7. [Filechan](https://filechan.org) / [Wormhole](https://wormhole.app) / [Fireload](https://www.fireload.com]
+- File sharing and hosting
+- Filechan is no expriation hosting, same as Fireload
+- Wormhole is Temp Sharing for 24 hours
+
+8. [teledrive](https://teledriveapp.com) / [Filen](https://filen.io) / [terabox](https://www.terabox.com)
+- File storage
+- Teledrive is unlimited
+- Filen is 10GB limit
+- TeraBox is 1TB limit
+
+9. [Proton](https://proton.me)
+- Mail, calendar, drive and a great **free** VPN
+- Service is free but can be better by paying a monthly subscription
 
 # DO NOT USE
 
