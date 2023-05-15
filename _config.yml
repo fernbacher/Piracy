@@ -1,4 +1,4 @@
-remote_theme: sharadcodes/jekyll-theme-serial-programmer
+remote_theme: sharadcodes/jekyll-theme-material-you
 title: Piracy Fernbacher
 markdown: kramdown
 
@@ -12,16 +12,3 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-
-collections_dir: all_collections
-collections:
-  posts:
-    output: true
-
-defaults:
-  - scope:
-      path: "_posts"
-    values:
-      layout: "post"
-      permalink: /posts/:title/
-exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
