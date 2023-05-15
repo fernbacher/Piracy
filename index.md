@@ -58,7 +58,7 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 10. [OldGamesDownload](https://oldgamesdownload.com/)
 - Many abandonware classics for a lot of systems
 
-11. [GOG-Games](http://gog-games.com/) \ [Free GOG PC](https://freegogpcgames.com)
+11. [GOG-Games](http://gog-games.com/) ` ` [Free GOG PC](https://freegogpcgames.com)
 - Official GOG releases
 
 12. [Chovka Repacks](https://repack.info/)
