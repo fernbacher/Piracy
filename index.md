@@ -96,7 +96,7 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 
 2. [FileCR](https://filecr.com/android/?id=368775758650)
 
-3. [ModdedCentral](https://t.me/ModdedCentral) / [Revdl](https://www.revdl.com)
+3. [ModdedCentral](https://t.me/ModdedCentral) | [Revdl](https://www.revdl.com)
 
 4. [julioverne](https://julio.hackyouriphone.org)
 - For iPhones
@@ -142,7 +142,7 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 3. [Slavart](https://slavart.gamesdrive.net)
 - Download from Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL, and SoundCloud in FLAC format
 
-4. [Wacup](https://getwacup.com/) / [MusicBee](https://getmusicbee.com)
+4. [Wacup](https://getwacup.com/) | [MusicBee](https://getmusicbee.com)
 - WinAmp community update project, aims to make WinAmp still useable while adding many new features and looks, my favourite media player
 - MusicBee is the best music player.
 
@@ -166,13 +166,13 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - Online manga reader
 
 # Streaming
-1. [rinzry.stream](https://rinzry.stream/0:/) / [Mega folder](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w)
+1. [rinzry.stream](https://rinzry.stream/0:/) | [Mega folder](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w)
 - Movies and TV Shows **DOWNLOAD**
 
-2. [JustChill](https://www.justchill.tv/home) / [123chill](https://123chill.to) [movie-web](https://movie-web.app/search/movie)
+2. [JustChill](https://www.justchill.tv/home) | [123chill](https://123chill.to) [movie-web](https://movie-web.app/search/movie)
 - Movies and TV Shows **STREAMING**
 
-3. [SportsBay](https://www.sportsbay.run) / [Sportsurge](https://v2.sportsurge.net) / [daddylivehd](https://daddylivehd.sx/24-7-channels.php) / [rj-freestreams](https://rj.freestreams-live1.tv)
+3. [SportsBay](https://www.sportsbay.run) | [Sportsurge](https://v2.sportsurge.net) | [daddylivehd](https://daddylivehd.sx/24-7-channels.php) | [rj-freestreams](https://rj.freestreams-live1.tv)
 - Sports / TV streaming
 
 
@@ -198,13 +198,13 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 1. [SpotX](https://github.com/amd64fox/SpotX)
 - Modified Spotify Client for Windows
 
-2. [uBlock](https://github.com/gorhill/uBlock#installation) / [Adnauseam](https://adnauseam.io/)
+2. [uBlock](https://github.com/gorhill/uBlock#installation) | [Adnauseam](https://adnauseam.io/)
 - Best adblocker + its alternative which is based on it
 
 3. [FastForward](https://github.com/FastForwardTeam/FastForward)
 - FastForward automatically skips annoying link shortener
 
-4. [Playnite](https://playnite.link) / [GOG-Galaxy](https://www.gog.com/galaxy)
+4. [Playnite](https://playnite.link) | [GOG-Galaxy](https://www.gog.com/galaxy)
 - Universal game launchers for Windows
 
 5. [FontsHub](https://fontshub.pro)
@@ -213,12 +213,12 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 6. [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - Easy Windows activation
 
-7. [Filechan](https://filechan.org) / [Wormhole](https://wormhole.app) / [Fireload](https://www.fireload.com]
+7. [Filechan](https://filechan.org) | [Wormhole](https://wormhole.app) | [Fireload](https://www.fireload.com]
 - File sharing and hosting
 - Filechan is no expriation hosting, same as Fireload
 - Wormhole is Temp Sharing for 24 hours
 
-8. [teledrive](https://teledriveapp.com) / [Filen](https://filen.io) / [terabox](https://www.terabox.com)
+8. [teledrive](https://teledriveapp.com) | [Filen](https://filen.io) | [terabox](https://www.terabox.com)
 - File storage
 - Teledrive is unlimited
 - Filen is 10GB limit
