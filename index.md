@@ -132,7 +132,7 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - Gaming and latency focused modification of Windows 10 20h2
 
 3. [XOS](https://discord.gg/XTYEjZNPgX)
-- Windows 11/10 22H2, 1809, 1803
+- Windows 10 22h2 and 1803 modifications, **NO FORTNITE QUESTIONS**
 
 4. [Revision](https://sites.google.com/view/meetrevision/revios)
 - Less stripped, based on Windows 11, way more general user friendly
