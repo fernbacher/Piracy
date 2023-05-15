@@ -1,1 +1,1 @@
-# [Github Page](https://fernbacher.github.io/Piracy/)
+# [Blog](https://fernbacher.vercel.app)
