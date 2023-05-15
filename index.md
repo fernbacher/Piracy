@@ -7,7 +7,6 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 `Last update: 05/15/2023`
 
 # Multi-Purpose
-
 1. [1337x](https://1337x.to)
 
 2. [RuTracker](https://rutracker.org/forum/index.php)
@@ -29,7 +28,6 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - They open their sign-up quite often with free invite codes, try your luck from time to time
 
 # Games
-
 1. [KaosKrew](https://kaoskrew.org/)
 - Repacks for PC
 
@@ -79,7 +77,6 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - Specific for indie games
 
 # Emulation
-
 1. [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
 
 2. [ROMS Megathread](https://r-roms.github.io/)
@@ -95,7 +92,6 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console
 
 # Mobile
-
 1. [Mobilism](https://forum.mobilism.org/index.php)
 
 2. [FileCR](https://filecr.com/android/?id=368775758650)
@@ -108,7 +104,6 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 5. [Android FOSS](https://github.com/offa/android-foss)
 
 # Software
-
 1. [DIAKOV](https://diakov.net/)
 - Repacks, use a translator
 
@@ -138,7 +133,6 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - Less stripped, based on Windows 11, way more general user friendly
 
 # Music
-
 1. [Free MP3 Download](https://free-mp3-download.net/)
 - MP3 and FLAC, search engine that allows users to download all their favourite songs, serves the downloads through third party servers
 
@@ -165,7 +159,6 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - Music and podcast downloader
 
 # Anime
-
 1. [Anime Piracy Index](https://piracy.moe/)
 - This has everything you want for anime
 
@@ -173,7 +166,6 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - Online manga reader
 
 # Streaming
-
 1. [rinzry.stream](https://rinzry.stream/0:/) / [Mega folder](https://mega.nz/folder/Pt8AHLAC#tAte3gNlNossthoHiSCL5w)
 - Movies and TV Shows **DOWNLOAD**
 
@@ -185,7 +177,6 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 
 
 # Tools for piracy
-
 1. [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 - Unofficial qBittorrent client with modifications
 
@@ -204,7 +195,6 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - Streaming torrent app
 
 # Other
-
 1. [SpotX](https://github.com/amd64fox/SpotX)
 - Modified Spotify Client for Windows
 
@@ -239,7 +229,6 @@ profile_pic: "https://avatars.githubusercontent.com/u/66071319?v=4"
 - Service is free but can be better by paying a monthly subscription
 
 # DO NOT USE
-
 1. **Not recommended sites for pirating games**
 - Any website labeled in a way which includes names of scene groups such as CODEX, CPY, RELOADED, SKIDROW and / or others.
 - agfy.co
