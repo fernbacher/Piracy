@@ -1,4 +1,4 @@
-remote_theme: sharadcodes/jekyll-theme-dark-reader
+remote_theme: sharadcodes/jekyll-theme-serial-programmer
 title: Piracy Fernbacher
 markdown: kramdown
 
@@ -6,8 +6,6 @@ markdown: kramdown
 author:
   name: Fernbacher
   email: suckmycock@fuckyou.com
-  
-paginate: 3
 
 plugins:
   - jekyll-paginate
