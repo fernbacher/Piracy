@@ -1,1 +1,1 @@
-# [Website](https://fernbacher.github.io/Piracy/)
+# [Github Page](https://fernbacher.github.io/Piracy/)
