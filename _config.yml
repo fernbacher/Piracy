@@ -7,6 +7,8 @@ author:
   name: Fernbacher
   email: suckmycock@fuckyou.com
   
+paginate: 3
+
 plugins:
   - jekyll-paginate
   - jemoji
